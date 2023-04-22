@@ -16,4 +16,7 @@
         <RepositoryUrl>https://github.com/Padutronics/Padutronics.Wpf.Behaviors</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+    </ItemGroup>
 </Project>

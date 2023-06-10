@@ -1,3 +1,6 @@
+# Visual Studio cache/options directory.
+.vs/
+
 # Visual Studio Code.
 .vscode/*
 !.vscode/tasks.json
